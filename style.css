@@ -1,0 +1,9 @@
+body {
+    background-color: #f0f8ff; /* 薄い水色 */
+    color: #333;
+    padding: 50px;
+}
+h1 {
+    color: #ff4500; /* オレンジレッド */
+    border-bottom: 2px solid #ff4500;
+}
